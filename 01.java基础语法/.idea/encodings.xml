@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/流程控制语句/src/Demo01Sequence.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/流程控制语句/src/Demo02If.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/流程控制语句/src/Demo03IfElse.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/流程控制语句/src/Demo04IfElseExt.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/流程控制语句/src/Demo05IfElsePractise.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/流程控制语句/src/Demo06Max.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/流程控制语句/src/Demo07Switch.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/流程控制语句/src/Demo08SwitchNotice.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/流程控制语句/src/Demo09For.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/流程控制语句/src/Demo10While.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/流程控制语句/src/Demo11DoWhile.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/流程控制语句/src/Demo12HundredSum.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/流程控制语句/src/Demo13LoopDifference.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/流程控制语句/src/Demo14Break.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/流程控制语句/src/Demo15Continue.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/流程控制语句/src/Demo16DeadLoop.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/流程控制语句/src/Demo17LoopHourAndMinute.java" charset="GBK" />
+  </component>
+</project>
